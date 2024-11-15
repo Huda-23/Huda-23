@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Huda-23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, TypeScript, JavaScript, PHP.
-- 📫 How to reach me message me
-- 😄 Pronouns: idc
+- 🌱 I’m currently learning Java, TypeScript, JavaScript, PHP. (And angular)
 
 idk what the fuck is this btw
 
