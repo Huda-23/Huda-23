@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huda-23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, TypeScript, JavaScript, PHP. (And angular)
+- 🌱 I’m currently learning Java, TypeScript, JavaScript, PHP, Solidity. (And angular)
 
 
 
